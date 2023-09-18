@@ -1,5 +1,5 @@
 // vapidKeyは、Firebaseプロジェクトの[プロジェクトの概要]からWebアプリを開き、[Cloud Messaging]タブの[ウェブプッシュ証明書] > [鍵ペア]の値に置き換えます。
-const VAPI_KEY = '<ウェブプッシュ証明書 > 鍵ペアの値>';;
+const VAPI_KEY = 'BBK34ujS8-aUi0GTrdDqCbW_W0i2A618IEOIHWrcbR4mWp-v8JwESsTgid9eZCaz0iK3nUfBs5zh4dAtinWvJpg';
 
 document.addEventListener('DOMContentLoaded', function () {
   const loadEl = document.querySelector('#load');
